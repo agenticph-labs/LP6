@@ -10,13 +10,11 @@ Provides non-technical stakeholders with access to:
 Usage:  streamlit run p6-viewer.py
 """
 
-import sys
 from pathlib import Path
 
-import streamlit as st
 import pandas as pd
 import plotly.express as px
-import plotly.graph_objects as go
+import streamlit as st
 
 # ── Paths ──────────────────────────────────────────────────────────────────
 ROOT = Path(__file__).resolve().parent
@@ -31,7 +29,7 @@ st.set_page_config(
 )
 
 st.title("☕ Philippine Specialty Coffee Market Entry Study")
-st.markdown("**Research-to-Decision Analysis** — *Should a company enter the PH specialty coffee market?*")
+st.markdown("**Research-to-Decision Analysis** —")
 
 # ── Load report ────────────────────────────────────────────────────────────
 if REPORT_PATH.exists():
