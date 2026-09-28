@@ -102,9 +102,22 @@ pip install pandas numpy matplotlib seaborn scipy jupyter
 jupyter notebook market-entry-analysis.ipynb
 ```
 
-## Author
+## PH Use Case
 
-Built for the AgenticPH Labs Portfolio — aligned with Economics + Legal Management analytical rigor.
+This study was built specifically for the Philippine market context. It addresses:
+
+- **Emerging economy dynamics** — GDP growth projections, urbanization rates, and disposable income trends specific to the Philippines.
+- **Local competitive landscape** — In-depth analysis of PH coffee market players (Bo's Coffee, Figaro, Commune, Yardstick, H Proper) alongside global entrants (Starbucks, Tim Hortons).
+- **Regulatory environment** — FDA permits, PEZA incentives, local government licensing requirements for F&B operations in Metro Manila and regional hubs.
+- **Supply chain realities** — Assessment of PH coffee import dependency (70%+ imported beans), logistics corridors, and El Niño risk exposure.
+
+---
+
+## CI/CD
+
+This is a research project (Jupyter notebook). No automated CI/CD pipelines are needed. The companion Streamlit viewer provides non-technical access to the analysis for stakeholders.
+
+---
 
 ## 📄 License
 
@@ -112,4 +125,5 @@ MIT
 
 ---
 
-*Portfolio Project 6 — [AgenticPH Labs](https://agenticph-labs.github.io/portfolio)*
+*Portfolio Project 6 — [AgenticPH Labs](https://agenticph-labs.github.io/portfolio)*  
+*Managed by the Hermes Agent System · agenticph.com*
