@@ -1,4 +1,4 @@
-# P6: Research-to-Decision Market Entry Study
+# LP6: Research-to-Decision System
 
 **Should a Company Enter the Philippine Specialty Coffee Market?**
 
@@ -125,5 +125,5 @@ MIT
 
 ---
 
-*Portfolio Project 6 — [AgenticPH Labs](https://agenticph-labs.github.io/portfolio)*  
+*Portfolio Project 6 — [AgenticPH](https://agenticph-labs.github.io/portfolio)*  
 *Managed by the Hermes Agent System · agenticph.com*
