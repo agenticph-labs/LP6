@@ -2,7 +2,7 @@
 
 **Should a Company Enter the Philippine Specialty Coffee Market?**
 
-[![Status: Demo-ready](https://img.shields.io/badge/status-demo--ready-22c55e.svg)](https://github.com/agenticph-labs/p6-research-decision)
+[![Status: Demo-ready](https://img.shields.io/badge/status-demo--ready-22c55e.svg)](https://github.com/agenticph-labs/LP6)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A complete research-to-decision pipeline demonstrating structured business analysis — from research question framing through data collection, market sizing, competitor analysis, pricing, customer segmentation, risk assessment, and investment recommendation.
@@ -10,7 +10,7 @@ A complete research-to-decision pipeline demonstrating structured business analy
 ## Repository Structure
 
 ```
-p6-research-decision/
+LP6/
 ├── README.md                          # This file — methodology overview
 ├── market-entry-analysis.ipynb        # Full interactive Jupyter notebook
 ├── market-entry-report.md             # Polished, standalone decision report
@@ -92,8 +92,8 @@ This study follows a structured **research-to-decision framework** grounded in e
 
 ```bash
 # Clone the repo
-git clone https://github.com/agenticph-labs/p6-research-decision.git
-cd p6-research-decision
+git clone https://github.com/agenticph-labs/LP6.git
+cd LP6
 
 # Install dependencies
 pip install pandas numpy matplotlib seaborn scipy jupyter
