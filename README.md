@@ -5,6 +5,8 @@
 [![Status: Demo-ready](https://img.shields.io/badge/status-demo--ready-22c55e.svg)](https://github.com/agenticph-labs/LP6)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+🌱 **Built in the open, for the open.** A community research framework by Filipino builders — structured analysis for smarter decisions, freely available for anyone to reuse and build upon.
+
 A complete research-to-decision pipeline demonstrating structured business analysis — from research question framing through data collection, market sizing, competitor analysis, pricing, customer segmentation, risk assessment, and investment recommendation.
 
 ## Repository Structure
@@ -125,5 +127,5 @@ MIT
 
 ---
 
-*Portfolio Project 6 — [AgenticPH](https://agenticph-labs.github.io/portfolio)*  
-*Managed by the Hermes Agent System · agenticph.com*
+*Built in the open, for the open.*  
+*[AgenticPH Labs](https://agenticph-labs.github.io/portfolio) — Filipino builders crafting practical AI tools for the Philippines.*
